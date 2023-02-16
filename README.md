@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Ignacio!👋
 
 
 
@@ -8,7 +8,7 @@
 ### Here you have some open surce projects I have worked on:
 
   <table>
-  <thead align="center">
+  <thead al ign ="center">
     <tr border: none;>
       <td><b>👨🏻‍💻 Project</b></td>
       <td><b>🌐 Website</b></td>
