@@ -1,11 +1,6 @@
 ### Hi there, I am Ignacio!👋
 
-
-
-
-
-
-### Here you have some open surce projects I have worked on:
+- Here you have some open surce projects I have worked on:
 
   <table>
   <thead al ign ="center">
