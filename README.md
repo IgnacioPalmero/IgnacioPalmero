@@ -55,7 +55,7 @@
   <table>
   <thead al ign ="center">
     <tr border: none;>
-      <td><b>👨🏻‍💻 Project</b></td>
+      <td><b>👨🏻‍💻 Repository</b></td>
       <td><b>🌐 Website</b></td>
       <td><b>⌛ State</b></td>
     </tr>
