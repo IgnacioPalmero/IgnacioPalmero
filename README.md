@@ -29,7 +29,7 @@
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=style-flat&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=style-flat&logo=plotly&logoColor=white)
-[![Folium](https://img.shields.io/badge/Folium-9AD6D6?style-flat&logo=folium&logoColor=white&labelColor=9AD6D6)]()
+![Folium](https://img.shields.io/badge/Folium-9AD6D6?style=style-flat&logo=folium&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3F83A3?style=style-flat&logo=Matplotlib&logoColor=black)
 </br>
 
