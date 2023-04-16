@@ -1,6 +1,10 @@
 ### Hi there, I am Ignacio!👋
 
-- Here you have some open surce projects I have worked on:
+
+
+
+
+### Here you have some open source projects I have worked on:
 
   <table>
   <thead al ign ="center">
@@ -26,5 +30,11 @@
       <td><a href="https://goodreadsrecommender.streamlit.app/"><b>goodreadsrecommender</b></a></td>
       <td><img alt="State" src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/IgnacioPalmero/dsb_p4_fixed_deposit_prediction"><b>🏦 Fixed deposit predictión</b></a></td>
+      <td><a href="https://fixed-deposit-predictor.streamlit.app/"><b>Fixed deposit predictión</b></a></td>
+      <td><img alt="State" src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"/></td>
+    </tr>
   </tbody>
 </table>
+
