@@ -38,7 +38,7 @@
 ![Helium](https://img.shields.io/badge/-Helium-5628EE?style=style-flat)
 </br>
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=style-flat&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=style-flat&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=style-flat&logo=powerbi&logoColor=black)
 ![streamlit](https://img.shields.io/badge/streamlit-FE2E2E?style=style-flat&logo=streamlit&logoColor=white)
 </br>
