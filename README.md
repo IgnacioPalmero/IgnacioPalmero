@@ -18,7 +18,7 @@
 </br>
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=style-flat&logo=opencv&logoColor=white)
-![Pyspark](https://img.shields.io/badge/pyspark-D43A3A.svg?style=style-flat&logo=apachespark&logoColor=white&labelColor=D43A3A)
+![Pyspark](https://img.shields.io/badge/Pyspark-D43A3A.svg?style=style-flat&logo=apachespark&logoColor=white)
 </br>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=style-flat&logo=mysql&logoColor=white)
