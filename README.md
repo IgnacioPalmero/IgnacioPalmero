@@ -45,8 +45,6 @@
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=style-flat&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=style-flat&logo=notion&logoColor=white)
-</br>
-
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=style-flat&logo=github&logoColor=white)
 
 
